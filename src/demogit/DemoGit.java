@@ -17,9 +17,9 @@ public class DemoGit {
         // TODO code application logic here
         System.out.println("hey jainil here");
         System.out.println(" hi how are you");
-        int a;
-        int b;
-        int c= a +b;
+        int a=10;
+        int b=20;
+        int c = a + b ;
     }
     
 }
